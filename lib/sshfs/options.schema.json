@@ -1,0 +1,15 @@
+{
+  "user": "string",
+  "host": "string",
+  "volume": "string",
+  "target": "string",
+  "mountpoint": "string",
+  "options": {
+    "isa": "object",
+    "optional": true
+  },
+  "flags": {
+    "isa": "object",
+    "optional": true
+  }
+}
